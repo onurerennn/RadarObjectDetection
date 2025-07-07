@@ -250,8 +250,8 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 ## 📞 İletişim
 
 Sorularınız için:
-- 📧 Email: [your-email@example.com]
-- 💬 Issues: GitHub Issues sayfası
+- 📧 Email: [onurerenejder36@gmail.com]
+
 
 ---
 
